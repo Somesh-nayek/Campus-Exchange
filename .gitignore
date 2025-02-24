@@ -1,0 +1,11 @@
+# Node.js
+node_modules
+.env
+
+# Vite
+frontend/node_modules
+frontend/dist
+.vite
+
+# Logs
+*.log
